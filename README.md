@@ -23,6 +23,8 @@ To avoid conflicts with other Python projects on your system, it can help to cre
 > Alternatively, you can install these packages manually using the following command.
 > 
 > `pip install pandas scikit-learn jupyterlab matplotlib`
+>
+> _It is not necessary to do this if you already ran `pip install -r requirements.txt`_
 
 Once you've installed the necessary libraries, you can start JupyterLab and load the demo notebook.
 
